@@ -38,4 +38,6 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcha&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
     
