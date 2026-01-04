@@ -73,3 +73,6 @@
 <img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
 
 </div>
+
+![Top Langs](https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&layout=compact)
+
