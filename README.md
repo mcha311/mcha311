@@ -62,8 +62,14 @@
 ## 🏅 Stats
 
 <div align="center">
-
-<img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+<img src="https://github-readme-stat.vercel.app/api?username=mcha311
+&show_icons=true
+&theme=dark
+&hide_border=true
+&count_private=true
+&title_color=f0f6fc
+&text_color=e6edf3
+&icon_color=58a6ff"/>
 
 
 
