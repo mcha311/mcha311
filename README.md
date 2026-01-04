@@ -63,9 +63,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
+
+
+<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&repo=backend-project&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&layout=compact&langs_count=8&theme=dark&hide_border=true&exclude_repo=repo1,repo2"/>
+
+<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&repo=backend-project&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=ffffff&text_color=ffffff"/>
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcha311&layout=compact)
 
