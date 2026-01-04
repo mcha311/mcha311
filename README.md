@@ -65,12 +65,13 @@
 
 <img src="https://github-readme-stat.vercel.app/api?username=mcha311
 &show_icons=true
-&theme=dark
 &hide_border=true
 &count_private=true
+&bg_color=000000
 &title_color=ffffff
 &text_color=ffffff
 &icon_color=ffffff"/>
+
 
 
 </div>
