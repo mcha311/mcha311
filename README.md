@@ -60,7 +60,7 @@
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcha311%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/mcha311&count_bg=000000&title_bg=000000&icon=github.svg&icon_color=FFFFFF&title=GitHub&edge_flat=false"/>
   </a>
 </div>
 
@@ -71,8 +71,5 @@
 <div align="center">
 
 <img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-
-<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&layout=compact&langs_count=6&theme=dark&hide_border=true&count_private=true"/>
-
 
 </div>
