@@ -64,8 +64,6 @@
 
 <img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&count_private=true"/>
 
-<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&repo=backend-project&layout=compact"/>
-
 </div>
 
 
