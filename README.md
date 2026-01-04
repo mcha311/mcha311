@@ -67,10 +67,10 @@
 &show_icons=true
 &hide_border=true
 &count_private=true
-&bg_color=000000
-&title_color=ffffff
-&text_color=ffffff
-&icon_color=ffffff"/>
+&bg_color=0d1117
+&title_color=e6edf3
+&text_color=c9d1d9
+&icon_color=58a6ff"/>
 
 
 
