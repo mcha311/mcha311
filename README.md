@@ -7,8 +7,8 @@
     Back End Developer with Ambition
   </h2>  
   <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    Backend developer focused on Spring Boot, cloud infrastructure, and scalable systems.<br/>
-    I’m a backend developer focused on building clear, reliable server-side systems.<br/>
+    Backend developer focused on Spring Boot, cloud infrastructure, and scalable systems.
+    I’m a backend developer focused on building clear, reliable server-side systems.
     I value solid fundamentals, clean architecture, and practical problem solving.
   </div> 
 </div>
@@ -72,7 +72,7 @@
 
 <img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&layout=compact&langs_count=8&theme=dark&hide_border=true&exclude_repo=repo1,repo2"/>
+<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&layout=compact&langs_count=6&theme=dark&hide_border=true&count_private=true"/>
 
 
 </div>
