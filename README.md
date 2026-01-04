@@ -63,14 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stat.vercel.app/api?username=mcha311
-&show_icons=true
-&hide_border=true
-&count_private=true
-&bg_color=0d1117
-&title_color=e6edf3
-&text_color=c9d1d9
-&icon_color=58a6ff"/>
+<img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff"/>
 
 
 
