@@ -57,13 +57,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/mcha311&count_bg=000000&title_bg=000000&icon=github.svg&icon_color=FFFFFF&title=GitHub&edge_flat=false"/>
-  </a>
-</div>
-
 <br/>
 
 ## 🏅 Stats
