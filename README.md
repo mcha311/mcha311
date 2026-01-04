@@ -60,18 +60,11 @@
 <br/>
 
 ## 🏅 Stats
-
 <div align="center">
-<img src="https://github-readme-stat.vercel.app/api?username=mcha311
-&show_icons=true
-&theme=dark
-&hide_border=true
-&count_private=true
-&title_color=f0f6fc
-&text_color=e6edf3
-&icon_color=58a6ff"/>
 
+<img src="https://github-readme-stat.vercel.app/api?username=mcha311&show_icons=true&count_private=true"/>
 
+<img src="https://github-readme-stat.vercel.app/api/top-langs/?username=mcha311&repo=backend-project&layout=compact"/>
 
 </div>
 
