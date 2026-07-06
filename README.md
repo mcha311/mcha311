@@ -8,7 +8,8 @@
   </h2>  
   <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     
-    Backend & Cloud Engineer specializing in scalable infrastructure — built 48s CI/CD pipelines, ensured up to 88% test coverage, and engineered real-time communication across distributed systems.
+    Backend & Cloud Engineer specializing in scalable infrastructure — built 48s CI/CD pipelines, 
+    ensured up to 88% test coverage, and engineered real-time communication across distributed systems.
 
   </div> 
 </div>
