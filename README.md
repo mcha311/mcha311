@@ -42,9 +42,6 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/m_cha311">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
 <a href="https://velog.io/@mcha">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </a>
