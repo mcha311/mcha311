@@ -4,12 +4,12 @@
 
 <div style="text-align: left;"> 
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-    Back End Developer with Ambition
+    Inspiring Backend / Cloud Engineer
   </h2>  
   <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-    Backend developer focused on Spring Boot, cloud infrastructure, and scalable systems.
-    I’m a backend developer focused on building clear, reliable server-side systems.
-    I value solid fundamentals, clean architecture, and practical problem solving.
+    
+    Backend & Cloud Engineer specializing in scalable infrastructure — built 48s CI/CD pipelines, ensured up to 88% test coverage, and engineered real-time communication across distributed systems.
+
   </div> 
 </div>
 
